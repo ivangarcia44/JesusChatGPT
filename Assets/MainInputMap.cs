@@ -143,7 +143,7 @@ public partial class @MainInputMap : IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""235df8cb-f49b-4172-888f-6b7b18c131ba"",
-                    ""path"": ""<Keyboard>/space"",
+                    ""path"": ""<Keyboard>/leftAlt"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
